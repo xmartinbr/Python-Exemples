@@ -1,6 +1,6 @@
 #Clase que hereda del objecto [object]
 class Persona(object):
-    nombre = "Juan"
+    nombre = "Juanito"
     
     def __new__(cls):
         print("New... 1º método llamado al crear un obj.")
