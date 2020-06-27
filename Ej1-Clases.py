@@ -1,4 +1,4 @@
-#Clase que hereda del objecto [object]
+﻿#Clase que hereda del objecto [object]
 class Persona(object):
     nombre = "Juanito"
     
